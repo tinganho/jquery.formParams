@@ -1,0 +1,22 @@
+{
+  "name": "jquery.formParams",
+  "main": "jquery.formParams.js",
+  "version": "0.1.1",
+  "homepage": "https://github.com/tinganho/jquery.formParams",
+  "authors": [
+    "Tingan Ho <tingan87@gmail.com>"
+  ],
+  "description": "jQuery plugin for serializing forms to JS objects",
+  "keywords": [
+    "jquery",
+    "plugin"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
